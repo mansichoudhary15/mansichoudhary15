@@ -11,6 +11,8 @@ BCA Student | AI Governance & Ethics Enthusiast | Prompt Engineering | AI Writin
 - Content Writing & Reading (AI)
 - AI Governance & Ethics
 - Multilingual: English, Hindi, German
+- Data Annotation (Text Labeling, Classification, Tagging)
+- AI Content Review & Response Evaluation
 
 ## Goal
 Future AI Governance Specialist 🚀
