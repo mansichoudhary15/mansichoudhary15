@@ -1,14 +1,14 @@
 # Hi, I'm Mansi 👋
 
 ## About Me
-BCA Student | AI Governance & Ethics Enthusiast | Prompt Engineering | AI Writing
+BCA Student | Prompt Engineering | AI Writing
 
 ## Skills
 - Data Analysis
 - Excel
 - Python
 - Prompt Engineering
-- Content Writing & Reading (AI)
+- Content Writing & Reading 
 - AI Governance & Ethics
 - Multilingual: English, Hindi, German
 - Data Annotation (Text Labeling, Classification, Tagging)
